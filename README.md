@@ -7,3 +7,4 @@ Notes and information from setting up my laptop.
 - [Dale Kunce Mac + GIS Setup](https://gist.github.com/dalekunce/0e6f7bfe8445ff3cc3dc)
 - [macOS Setup Gitbook](http://sourabhbajaj.com/mac-setup/)
 - [Setting up a Mac for (frontend) development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
+- [Keybase + PGP signing git/GitHub commits](https://github.com/pstadler/keybase-gpg-github)
