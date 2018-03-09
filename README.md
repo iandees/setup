@@ -7,7 +7,7 @@ Notes and information from setting up my laptop.
 1. [Enable disk encryption](https://support.apple.com/en-us/HT204837), [Require password on wake](https://support.apple.com/kb/PH25376?locale=en_US)
 1. [Install Homebrew](https://brew.sh/)
 1. [Install oh-my-zsh](http://ohmyz.sh/)
-1. Install my [Brewfile](https://github.com/iandees/setup/blob/master/Brewfile)
+1. Install my [Brewfile](https://github.com/iandees/setup/blob/master/Brewfile) (`brew bundle install`)
 1. [Generate new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) and [add it to GitHub](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
 
 ## Further reading
