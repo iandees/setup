@@ -1,0 +1,6 @@
+[alias]
+	cm = commit -m
+	ap = add -p
+	cob = checkout -b
+	co = checkout
+	st = status
