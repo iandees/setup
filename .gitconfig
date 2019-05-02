@@ -4,3 +4,6 @@
 	cob = checkout -b
 	co = checkout
 	st = status
+	branch-name = "!git rev-parse --abbrev-ref HEAD"
+	pub = "!git push -u origin $(git branch-name)"
+	pubf = "!git push -u origin $(git branch-name) --force"
