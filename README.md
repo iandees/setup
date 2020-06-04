@@ -13,8 +13,13 @@ Notes and information from setting up my laptop.
     1. Disable Show recent applications
 1. In General preferences:
     1. Switch to Dark mode
+1. In Date & Time preferences:
+    1. Show seconds, use 24-hour, show date
+1. In Security & Privacy preferences:
+    1. Enable location services
+    1. Disable access for Apple Ads and HomeKit, enable showing location menu icon
 1. [Enable disk encryption](https://support.apple.com/en-us/HT204837), [Require password on wake](https://support.apple.com/kb/PH25376?locale=en_US)
-1. [Install Homebrew](https://brew.sh/)
+1. [Install Homebrew](https://brew.sh/) (run `brew analytics off` after)
 1. [Install oh-my-zsh](http://ohmyz.sh/)
 1. Install my [Brewfile](https://github.com/iandees/setup/blob/master/Brewfile) (`brew bundle install`)
 1. [Generate new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) and [add it to GitHub](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
