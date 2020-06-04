@@ -3,7 +3,16 @@ Notes and information from setting up my laptop.
 
 ## Things I usually do
 
-1. Decrease key repeat delay and increase repeat rate in Keyboard preferences
+1. In Keyboard preferences:
+  1. Decrease key repeat delay and increase repeat rate in Keyboard preferences
+  1. Set "Touch Bar shows" to "Expanded Control Strip"
+  1. Customize Control Strip and remove Siri, media controls, etc. to make space on the left where my fingers sometimes rest at the top of the keyboard
+  1. Disable Dictation + dictation shortcut
+1. In Dock preferences:
+  1. Automatically hide and show the Dock
+  1. Disable Show recent applications
+1. In General preferences:
+  1. Switch to Dark mode
 1. [Enable disk encryption](https://support.apple.com/en-us/HT204837), [Require password on wake](https://support.apple.com/kb/PH25376?locale=en_US)
 1. [Install Homebrew](https://brew.sh/)
 1. [Install oh-my-zsh](http://ohmyz.sh/)
