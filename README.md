@@ -23,6 +23,7 @@ Notes and information from setting up my laptop.
 1. [Install oh-my-zsh](http://ohmyz.sh/)
 1. Install my [Brewfile](https://github.com/iandees/setup/blob/master/Brewfile) (`brew bundle install`)
 1. [Generate new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) and [add it to GitHub](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+1. Install [Finicky](https://github.com/johnste/finicky) (`brew install finicky`) and customize the configuration in this repo
 
 ## Further reading
 
