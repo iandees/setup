@@ -36,6 +36,7 @@ Notes and information from setting up my laptop.
 1. Install [Finicky](https://github.com/johnste/finicky) (`brew install finicky`) and customize the configuration in this repo
 1. Install [atuin](https://atuin.sh/) and login
 1. Update SynologyDrive to ignore `node_modules` and `.venv` directories. See [this reddit thread](https://www.reddit.com/r/synology/comments/zao71q/best_way_to_work_around_node_modules_with/).
+2. Install Backblaze and fix the [file permissions](https://www.backblaze.com/computer-backup/docs/install-the-backup-client-mac).
 
 ## Further reading
 
