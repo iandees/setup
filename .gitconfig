@@ -1,3 +1,7 @@
+[user]
+        name = Ian Dees
+        email = ian.dees@gmail.com
+
 [alias]
 	cm = commit -m
 	ap = add -p
